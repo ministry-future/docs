@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6aec49b9f88d2a55",
+  "active": "baa3da5cf5236f60",
   "lastOpenFiles": [
     "test.md",
     "index.md"
